@@ -1,2 +1,2 @@
 # Music-Gallery-Database
-It is DBMS using only PHP
+It is DBMS project created using  PHP only
